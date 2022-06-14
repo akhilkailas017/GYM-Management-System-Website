@@ -1,6 +1,6 @@
 # gym_management_completed
 
-database:
+database
 
 create database gym;
 use gym;
