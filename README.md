@@ -1,6 +1,6 @@
-# gym_management_completed
+# GYM-Management-System-Website
 
-1] How to install PHP in windows:
+**How to install PHP in windows:**
 
 - download and install xampp
 
@@ -25,7 +25,7 @@
 	localhost/file_name
 	
 	
-2] Mysql commands used:
+**Mysql commands used:**
 
 	create database gym;
 	use gym;
